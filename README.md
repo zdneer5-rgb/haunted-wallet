@@ -1,0 +1,2 @@
+# haunted-wallet
+THE OFFICIAL HAUNTED WALLET GAME
